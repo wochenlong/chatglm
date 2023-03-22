@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-chatglm",
+  "description": "可以被调用的chatglm服务",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "4.12.0"
+  }
+}
